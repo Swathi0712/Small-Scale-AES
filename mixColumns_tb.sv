@@ -1,5 +1,4 @@
 // Code your testbench here
-// or browse Examples
 
 module mixColumns_sim();
   reg [15:0] x;
